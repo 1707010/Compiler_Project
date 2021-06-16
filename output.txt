@@ -1,0 +1,30 @@
+Valid header
+Valid header
+Valid header
+(a) Variable Declared
+(b) Variable Declared
+(c) Variable Declared
+(dd) Variable Declared
+Value of the Variable (a)= 23	
+Value of the Variable (b)= 12	
+Value of the Variable (c)= 51	
+Value of the Variable (dd)= 2	
+value of expression in ELSE: 11
+value of the loop: 2 expression value: 7
+value of the loop: 4 expression value: 7
+value of the loop: 6 expression value: 7
+value of the loop: 8 expression value: 7
+value of the iloop: 20 expression value: 7
+value of the iloop: 16 expression value: 7
+value of the iloop: 12 expression value: 7
+value of the iloop: 8 expression value: 7
+Print Expression 23
+Value of Log10(100) is 2.000000
+Value of Log(16) is 2.772589
+
+Value of Sin(30) is 0.500001
+The factorial of 5  is : 120
+177 Odd Number 
+99 is not a prime number.
+First 6 terms of Fibonacci series are:0 1 1 2 3 5 
+ Default CASE  executed. Value of expression 612 

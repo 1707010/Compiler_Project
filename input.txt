@@ -1,0 +1,77 @@
+insert studio.h
+insert flexible.h
+insert routine.h
+
+body:
+((
+
+
+	INTEGER a,b,c,dd;
+
+	a=23;
+
+	b=12;
+
+	c=51;
+	
+	dd=2;
+
+
+	IF(b>a)
+	((
+		a add b;
+	))
+	FI
+	((
+		a sub b;
+	))
+
+	LOOP (2<10,2)
+	((
+	4 add 3 ;
+	))
+
+
+	iLOOP (20>5,4)
+	((
+	4 add 3 ;
+	))
+
+	out(a);
+
+	LOG10(100);
+
+	LOG(16);
+
+	2 sup 4;
+
+	LN();
+
+	SIN(30);
+
+	FACT(5);
+
+	isODD(177);
+
+	isPRIME(99);
+
+	FIBB(6);
+
+
+	SWITCH ( dd )
+	((
+	CASE 11 :
+		a add b; BREAK;
+	
+	CASE 22 :
+		b add c; BREAK;
+	
+	CASE 33 :
+		a mul c; BREAK;
+	
+	DEFAULT :
+		b mul c; BREAK;
+	))
+	
+))
+
